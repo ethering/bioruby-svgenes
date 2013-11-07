@@ -1,0 +1,5 @@
+chr1	Ensembl	gene	40344	40376	.	+	.	Accession "ENSG00000177757"; Name "FA87B_HUMAN"; Transcripts "ENST00000326734"
+chr1	Ensembl	gene	134390	134439	.	+	.	Accession "ENSG00000177750"; Name "A2ACH2_HUMAN"; Transcripts "ENST00000326725"
+chr1	Ensembl	gene	394524	394570	.	+	.	Accession "ENSG00000177741"; Name "Q96BN7_HUMAN"; Transcripts "ENST00000326678"
+chr1	Ensembl	gene	412258	412298	.	+	.	Accession "ENSG00000187583"; Name "PLEKHN1"; Transcripts "ENST00000379409, ENST00000379410, ENST00000379407"
+chr1	Ensembl	gene	552024	552064	.	+	.	Accession "ENSG00000187642"; Name "C1orf179"; Transcripts "ENTS00000341290"
